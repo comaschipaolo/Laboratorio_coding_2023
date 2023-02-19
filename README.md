@@ -7,8 +7,8 @@ Il materiale didattico del laboratorio è presentato nella forma di Notebook Goo
 ## Introduzione al linguaggio Python
 0. Le basi per iniziare.
 
-    1. Il primo programma in Python: <a href="https://colab.research.google.com/drive/1VH2h3Bbz6no-8Exbx_lzfnJ5sB0RAn3T?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-    2. Divertiamoci a muovere una tartaruga sullo schermo (variabili e ciclo for):
+    1. Un buon inizio: <a href="https://colab.research.google.com/drive/1VH2h3Bbz6no-8Exbx_lzfnJ5sB0RAn3T?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    2. Turtle, variabili e ciclo for:
 
 
 ### Manuale di riferimento
