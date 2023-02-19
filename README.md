@@ -8,7 +8,8 @@ Il materiale didattico del laboratorio è presentato nella forma di Notebook Goo
 0. Le basi per iniziare.
 
     1. Un buon inizio: <a href="https://colab.research.google.com/drive/1VH2h3Bbz6no-8Exbx_lzfnJ5sB0RAn3T?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-    2. Turtle, variabili e ciclo for:
+    2. Matematica e tartarughe: <a href="https://colab.research.google.com/drive/1AYqXP1ReMNJR-ZmZlEOs6fG-xv-u0aAF?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    3. Tartarughe e ciclo for: <a href="https://colab.research.google.com/drive/1Jg_VxBU_egxVaGkDZ5cl39-AXTlRN9RL?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 
 ### Manuale di riferimento
