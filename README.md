@@ -39,6 +39,7 @@ Il materiale didattico del laboratorio è presentato nella forma di Notebook Goo
     3. La gravitazione TODO: <a href="https://colab.research.google.com/drive/1rBCg_grPs0RKlrUfG1IOVaCRNFbgLSvp?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * Teoria dei giochi e intelligenza artificiale: <a href="https://colab.research.google.com/drive/1xoAobXyNVHfXaqb1bq6aMcdFoU_GI-AZ?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * Risolvere le equazioni in modo approssimato TODO: <a href="https://colab.research.google.com/drive/1bIbmBbAYkgJX5bO-Fvjl8axZNecmgJLi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+* Gioco Chomp-tagli e Minimax: <a href="https://colab.research.google.com/drive/1aw4wZ_Dlw_X750f0aekYrhfCC5hUsOtH?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 ## Matematica
 1. Esercizi:
