@@ -11,7 +11,7 @@ Il materiale didattico del laboratorio è presentato nella forma di Notebook Goo
     2. Matematica e tartarughe: <a href="https://colab.research.google.com/drive/1AYqXP1ReMNJR-ZmZlEOs6fG-xv-u0aAF?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     3. Tartarughe e ciclo for: <a href="https://colab.research.google.com/drive/1Jg_VxBU_egxVaGkDZ5cl39-AXTlRN9RL?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     4. Tartarughe che prendono decisioni: <a href="https://colab.research.google.com/drive/1PfEGV0u2s1dFhSGDe_PrtOyXlhcX6YkE?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-    5. Tartarughe e funzioni TODO: <a href="https://colab.research.google.com/drive/17Uujt6EKAFNXq66vFs0mkgSEgiuy2KHq?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    5. Tartarughe e funzioni: <a href="https://colab.research.google.com/drive/17Uujt6EKAFNXq66vFs0mkgSEgiuy2KHq?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     6. Il ciclo while TODO: <a href="https://colab.research.google.com/drive/1CG6Y2TrX0ehnS5BpsnVfNCwbraZ-RddG?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 
