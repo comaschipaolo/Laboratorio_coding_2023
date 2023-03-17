@@ -13,7 +13,7 @@ Il materiale didattico del laboratorio è presentato nella forma di Notebook Goo
     4. Tartarughe che prendono decisioni: <a href="https://colab.research.google.com/drive/1PfEGV0u2s1dFhSGDe_PrtOyXlhcX6YkE?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     5. Tartarughe e funzioni: <a href="https://colab.research.google.com/drive/17Uujt6EKAFNXq66vFs0mkgSEgiuy2KHq?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     6. Il ciclo while: <a href="https://colab.research.google.com/drive/1CG6Y2TrX0ehnS5BpsnVfNCwbraZ-RddG?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-    7. Il ciclo while: <a href="https://colab.research.google.com/drive/1_45MQOQIPcisRoxiY0jpiAzH3wXDi898?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    7. Le liste: <a href="https://colab.research.google.com/drive/1_45MQOQIPcisRoxiY0jpiAzH3wXDi898?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 
 ### Manuale di riferimento
