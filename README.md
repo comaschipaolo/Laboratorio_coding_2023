@@ -15,7 +15,8 @@ Il materiale didattico del laboratorio è presentato nella forma di Notebook Goo
     6. Il ciclo while: <a href="https://colab.research.google.com/drive/1CG6Y2TrX0ehnS5BpsnVfNCwbraZ-RddG?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     7. Le liste: <a href="https://colab.research.google.com/drive/1_45MQOQIPcisRoxiY0jpiAzH3wXDi898?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     8. Array: <a href="https://colab.research.google.com/drive/1nQ2O6BzizWCD-hozgD-gEg2MDfokImtC?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-    9. Calcolatrice CAS: <a href="https://colab.research.google.com/drive/1JabuuvaVR-A_vOgi0ddPj1HhI0Zwb88E?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    9. La rappresentazione grafica: <a href="https://colab.research.google.com/drive/1nWvEkEQ6kDCETgplE6Rscd6qWU4jGhCM?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    10. Calcolatrice CAS: <a href="https://colab.research.google.com/drive/1JabuuvaVR-A_vOgi0ddPj1HhI0Zwb88E?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 
 ### Manuale di riferimento
